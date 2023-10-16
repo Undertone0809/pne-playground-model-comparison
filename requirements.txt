@@ -1,0 +1,4 @@
+streamlit
+Flask
+promptulate
+dotenv
