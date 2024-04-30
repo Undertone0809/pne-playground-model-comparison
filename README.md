@@ -13,7 +13,7 @@ Copy `.env.example` to `.env` at the same directory and setting your key in it.
 
 ```shell
 python ./api.py
-python ./app.py
+streamlit run ./app.py
 ```
 
 Then you can see the following scenes.

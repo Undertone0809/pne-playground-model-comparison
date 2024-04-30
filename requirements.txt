@@ -1,4 +1,6 @@
 streamlit
-Flask
-promptulate
+promptulate~=1.16.0
+pydantic
 dotenv
+fastapi
+uvicorn
